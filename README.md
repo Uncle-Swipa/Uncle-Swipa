@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Uncle-Swipa
-- 👀 I’m interested in machine learning and artificial intelligence
-- 🌱 I’m currently learning python and SQL
-- 💞️ I’m looking to collaborate on any data science and machine learning project especially anything in the IOT field
+- 👀 I’m interested in software development and machine learning
+- 🌱 I am a software developer interested in building web apps using spring framework, I am also a budding react developer
+- 💞️ I’m looking to collaborate on any web development project, also actively searching for my first software developer job
 - 📫 How to reach me? twitter: @UncleSwipa, and on github
 
 <!---
